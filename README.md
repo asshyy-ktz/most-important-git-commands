@@ -1,4 +1,4 @@
-# most-important-git-commands
+# most_important_git_commands
 _A list of most important git commands to use git_
 
 ### initializing & cloning Projects
