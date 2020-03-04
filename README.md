@@ -71,10 +71,12 @@ _fetch the latest history from the server and point your local master branch at 
 | `git reset --hard origin/master` | Point your local master branch to the latest history from the server |
 
 
-### Search
+### Search & Tags
 
 | Command | Description |
 | ------- | ----------- |
 | `git grep "foo()"` | Search the working directory for foo(): |
+| `git tag [commitID]` | Give tags to the specified commit |
+
 
 
