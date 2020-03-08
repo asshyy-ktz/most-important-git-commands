@@ -75,7 +75,7 @@ _fetch the latest history from the server and point your local master branch at 
 
 | Command | Description |
 | ------- | ----------- |
-| `git grep "foo()"` | Search the working directory for foo(): |
+| `git grep "foo()"` | Search the working directory for foo() |
 | `git tag [commitID]` | Give tags to the specified commit |
 
 
